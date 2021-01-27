@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 696. 计数二进制子串

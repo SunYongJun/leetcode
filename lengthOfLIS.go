@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 300. 最长递增子序列

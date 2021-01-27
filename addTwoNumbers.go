@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 2. 两数相加

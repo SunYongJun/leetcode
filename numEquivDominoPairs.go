@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 给你一个由一些多米诺骨牌组成的列表 dominoes。

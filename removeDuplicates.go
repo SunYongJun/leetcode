@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 26. 删除排序数组中的重复项

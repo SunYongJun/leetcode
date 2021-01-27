@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 17. 电话号码的字母组合

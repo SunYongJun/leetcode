@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 201. 数字范围按位与

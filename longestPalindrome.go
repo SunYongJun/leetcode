@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 5. 最长回文子串

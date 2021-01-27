@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 99. 恢复二叉搜索树

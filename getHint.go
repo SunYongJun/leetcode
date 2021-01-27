@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 299. 猜数字游戏

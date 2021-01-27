@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 459. 重复的子字符串

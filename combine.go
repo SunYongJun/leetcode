@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 77. 组合

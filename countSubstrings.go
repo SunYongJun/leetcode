@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 647. 回文子串

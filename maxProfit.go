@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 121. 买卖股票的最佳时机

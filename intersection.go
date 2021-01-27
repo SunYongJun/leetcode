@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 349. 两个数组的交集

@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 258. 各位相加

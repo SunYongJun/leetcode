@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 	51. N 皇后

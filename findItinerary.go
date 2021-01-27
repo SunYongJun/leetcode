@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 332. 重新安排行程

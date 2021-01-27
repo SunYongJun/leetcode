@@ -1,4 +1,4 @@
-# MyLeetCode
+# leetcode
 
 个人LeetCode：
 

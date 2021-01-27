@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 100. 相同的树

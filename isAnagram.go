@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 242. 有效的字母异位词

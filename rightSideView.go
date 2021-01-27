@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 199. 二叉树的右视图

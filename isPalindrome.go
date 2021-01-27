@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 9. 回文数

@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 缺失数字

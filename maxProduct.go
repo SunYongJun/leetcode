@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 152. 乘积最大子数组

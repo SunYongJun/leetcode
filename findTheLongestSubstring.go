@@ -1,4 +1,4 @@
-package MyLeetCode
+package leetcode
 
 /**
 1371. 每个元音包含偶数次的最长子字符串

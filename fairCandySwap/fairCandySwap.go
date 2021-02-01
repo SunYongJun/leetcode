@@ -46,8 +46,6 @@ func FairCandySwap(A []int, B []int) []int {
 	m := ( sum(B) - sum(A) ) / 2
 
 	for i := 0 ; i < len(A); i++ {
-
-
 		for j := 0 ; j < len(B); j++ {
 
 			if B[j] - A[i] == m {
@@ -56,8 +54,6 @@ func FairCandySwap(A []int, B []int) []int {
 			}
 
 		}
-
-
 	}
 
 	return ans
@@ -68,6 +64,5 @@ func sum(A []int) int {
 	for i := 0 ; i < len(A); i++ {
 		s += A[i]
 	}
-
 	return s
 }

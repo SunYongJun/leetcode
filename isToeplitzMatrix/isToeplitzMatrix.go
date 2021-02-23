@@ -43,7 +43,7 @@ func IsToeplitzMatrix(matrix [][]int) bool {
 	lm,ln := len(matrix), len(matrix[0])
 
 	for i := 1 ; i < lm; i++ {
-		for j := 0 ; j < ln ; j++ {
+		for j := 1 ; j < ln ; j++ {
 			if i >= 1 && j >= 1 && matrix[i][j] != matrix[i-1][j-1] {
 				return false
 			}
